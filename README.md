@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Muhammad Hamza Asif 👋 </h1>
+<h1 align="center"> Hello, I'm Mohd. Hamza Asif 👋 </h1>
 <div>
 	I'm a full stack developer with expertise in Ruby on Rails and React, passionate about building robust and scalable web applications with clean and maintainable code.
 	</div>
