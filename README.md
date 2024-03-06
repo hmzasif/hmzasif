@@ -1,6 +1,8 @@
 <h1 align="center"> Hello, I'm Muhammad Hamza Asif 👋 </h1>
 <div>
-	I'm a full stack developer having experience in Ruby on Rails and React, Highly motivated to create robust and scalable web applications with clean and maintainable code.
+	Over 2 and half year of professional experience developing websites and web applications, both in a team environment and working alone.</br></br>
+
+I have more than 2 and a half years of professional experience developing websites and web applications, both in a team environment and working alone.
 	</div>
 <!-- <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzaasif4981-sudo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&hide=issues" />
