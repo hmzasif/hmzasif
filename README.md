@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm Muhammad Hamza Asif 👋 </h1>
 <div>
-Full-stack developer having expertise in Ruby on Rails, Hotwire, stimulus, PostgreSQL and GraphQL to create dynamic and interactive user interfaces. I have more than 2 and a half years of professional experience developing websites and web applications, both in a team environment and working alone.
+Full-stack developer with over 2.5 years of professional experience specializing in Ruby on Rails, Hotwire, Stimulus, and PostgreSQL. Proven track record in developing dynamic, user-friendly UIs and robust backend systems. Adept at solving complex problems and delivering high-quality solutions in both team-based and independent settings.
 	</div>
 <!-- <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzaasif4981-sudo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&hide=issues" />
