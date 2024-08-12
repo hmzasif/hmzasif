@@ -1,6 +1,10 @@
 <h1 align="center"> Hello, I'm Muhammad Hamza Asif 👋 </h1>
 <div>
-Full-stack developer with over 3.5 years of professional experience specializing in Ruby on Rails, Vue.js,  Hotwire, Stimulus, and PostgreSQL. Proven track record in developing dynamic, user-friendly UIs and robust backend systems. Adept at solving complex problems and delivering high-quality solutions in both team-based and independent settings.
+Full-stack developer having expertise in <b>Ruby on Rails, Hotwire, Vue.js, PostgreSQL and GraphQL</b> to create dynamic and interactive user interfaces.
+
+I have more than <b>3 and a half years</b> of professional experience developing websites and web applications, both in a team environment and working alone.
+
+In this Dynamic field of Full-stack development, my aim is to create user-friendly solutions that break new ground and move technology forward, adding innovation to the digital world.
 	</div>
 <!-- <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzaasif4981-sudo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&hide=issues" />
