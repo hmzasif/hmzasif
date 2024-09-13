@@ -15,7 +15,7 @@ In this Dynamic field of Full-stack development, my aim is to create user-friend
 </a><br>
 </div> --> 
 <!-- <br>
-<h1 align="left">Tools and Skills </h1>
+<h1 align="left">Tools and Skills</h1>
 
 
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
